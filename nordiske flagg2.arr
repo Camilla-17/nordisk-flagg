@@ -29,4 +29,4 @@ Faeroeyene = korsflagg("white", "red", "blue")
 Island = korsflagg("blue", "red", "white")
 
 #Her er fargene til de ulike flaggene. 
-#For å få frem riktig flagg er det bare å skrive navnet til landet i vinduet til høy
+#For å få frem riktig flagg er det bare å skrive navnet til landet i vinduet til høyre
